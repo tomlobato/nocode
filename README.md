@@ -2,6 +2,11 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+Philosophy:
+
+[![TED TALK ABOT NOTHING](https://img.youtube.com/vi/dJtHv9qKCoc/3.jpg)](https://www.youtube.com/watch?v=dJtHv9qKCoc)
+
+
 ## Getting Started
 
 Start by not writing any code.
